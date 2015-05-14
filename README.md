@@ -1,0 +1,3 @@
+# jqueryBasics6
+
+personal web site is back up with sample buttons to change background color - very rough though...
